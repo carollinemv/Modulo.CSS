@@ -7,6 +7,15 @@ h1{
 h3{
     color: #f1c40f;
 }
+
 li{
-    color: white;
+    color:white;
+}
+h2{
+    background-color: #f1c40f;
+    border: 3px solid;
+}
+
+#astronomy-class{
+    color: #e74c3c;
 }
